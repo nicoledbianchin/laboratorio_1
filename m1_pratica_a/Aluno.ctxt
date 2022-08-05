@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Aluno
+comment0.text=\n\ Classe\ Aluno\n\n\ @author\ Nicole\n\ @version\ 04/08/2022\n
+comment1.params=mat\ nom
+comment1.target=Aluno(int,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Aluno\n
+comment2.params=
+comment2.target=void\ aprovado()
+comment2.text=\n\ M\u00E9todo\ aprovado\n\ Fun\u00E7\u00E3o\:\ aprova\ o\ aluno\ e\ altera\ o\ semestre\ do\ aluno\ para\ o\ pr\u00F3ximo\ semestre\n
+comment3.params=
+comment3.target=void\ exibeDados()
+comment3.text=\n\ M\u00E9todo\ exibeDados\n\ Fun\u00E7\u00E3o\:\ exibe\ os\ dados\ do\ aluno\n
+numComments=4
