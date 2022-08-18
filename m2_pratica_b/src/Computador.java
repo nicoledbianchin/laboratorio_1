@@ -3,6 +3,7 @@ public class Computador {
     private double capacidadeProcessador;
     private int quantidadeMemoriaRAM;
     private int tamanhoHD;
+    private Monitor monitor;
 
     public Computador(String modeloProcessador, double capacidadeProcessador, int quantidadeMemoriaRAM, int tamanhoHD) {
         this.modeloProcessador = modeloProcessador;

@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Monitor {
+public class Monitor {
+    private double tamanhoTela;
 }
